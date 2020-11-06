@@ -33,7 +33,8 @@ twitter_username: Esther_Kpetemey
 github_username: EstherKpetemey 
 
 # Build settings
-theme: jekyll-theme-minimal
+theme:  minima
+
 plugins:
   - jekyll-feed
 
